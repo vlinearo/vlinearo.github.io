@@ -42,6 +42,7 @@ paginate     = 10
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
+    subtitle  = "silly baka uwu"
 
     [languages.en.params.logo]
       logoText = "Nice sleep -> huge cock"
